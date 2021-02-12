@@ -1,0 +1,8 @@
+github.com/khevse/mod2 v0.0.0-20210212154046-baefc8003e80 h1:nX2+wGDrIc7rISWv0GEocoVS0MIi9u+DWJWQjvJnrTQ=
+github.com/khevse/mod2 v0.0.0-20210212154046-baefc8003e80/go.mod h1:0QgjgRWPtlD6NNDO2sz5SzI8kF8MWYEJrBwb8YkL2OU=
+github.com/khevse/mod3 v1.0.0 h1:PCMsg6C28bdedJbNJYwSWI8b9NxwxwyncFkPWTJhDhs=
+github.com/khevse/mod3 v1.0.0/go.mod h1:L00FTtPB6w1N7gcUU7GHG5NgrY5Tmk692CfZsHJuijE=
+github.com/khevse/mod3/v2 v2.0.0 h1:4qG4q2SWNC7QDaLpwmz/sPthzec0eRR8M4coTol13/A=
+github.com/khevse/mod3/v2 v2.0.0/go.mod h1:dq2TKq1FYiqTSMjShE6NDdKgxaGF7KDuYQUzvQAEHuw=
+github.com/khevse/mod3/v2 v2.0.1 h1:qVe1KBjM0kGPDkd1fpEB0QAK9BcJ/4A5cjY6VbQXtH0=
+github.com/khevse/mod3/v2 v2.0.1/go.mod h1:dq2TKq1FYiqTSMjShE6NDdKgxaGF7KDuYQUzvQAEHuw=
